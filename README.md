@@ -5,7 +5,10 @@ The purpose of this project is to use unsupervised machine learning to analyze a
 
 The following methods are used for thisanalysis:
 
-~Preprocessing the database,
-~Reducing the data dimension using Principal Component Analysis,
-~Clustering cryptocurrencies using K-Means,
-~Visualizing classification results with 2D and 3D scatter plots.
+~Preprocessing the database
+
+~Reducing the data dimension using Principal Component Analysis
+
+~Clustering cryptocurrencies using K-Means
+
+~Visualizing classification results with 2D and 3D scatter plots
