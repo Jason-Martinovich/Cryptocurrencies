@@ -27,12 +27,14 @@ The best k value appears to be 4 so we would conclude on an output of 4 clusters
 
 ### Visualizing Cryptocurrencies Results
 
-3D-Scatter plot with clusters
+### 3D-Scatter plot with clusters.
+
 This 3-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to three principal components.
 
 ![3d_scatter](3d_scatter.png)
 
-2D-Scatter plot with clusters.
+### 2D-Scatter plot with clusters.
+
 This 2-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to two principal components.
 
 ![2d_scatter](2d_scatter.png)
@@ -40,7 +42,8 @@ This 2-D scatter plot was obtained using the PCA algorithm to reduce the crytocu
 Both these scatter plots show the distribution and the four clusters of cryptocurrencies.
 We can identify the outliers like the unique cryptocurrency in the class #2.
 
-Tradable cryptocurrency table
+### Tradable cryptocurrency table.
+
 Most of the cryptocurrencies are part of class #0 and #3.
 The image above shows that BitTorrent is the only cryptocurrency in class #2.
 
